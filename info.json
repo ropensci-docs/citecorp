@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "f046c1ee792ee1838e5c9e9938eb0e85575f0d65",
+    "author": "Scott Chamberlain <sckott@fastmail.com>",
+    "time": "2020-12-30 17:39:21",
+    "files": 1,
+    "merge": false,
+    "message": "change real requests to every Mon/Wed/Fri\n"
+  },
+  "remote": "https://github.com/ropensci/citecorp",
+  "pkg": "citecorp"
+}
