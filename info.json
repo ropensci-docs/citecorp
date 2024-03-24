@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "79812831de86a9a5e18df5efc2b0f7e4c9d3620d",
+    "author": "David Selby <selby@rptu.de>",
+    "time": "2023-06-28 06:33:33",
+    "files": 1,
+    "merge": false,
+    "message": "Update R-check.yml"
+  },
+  "repo": "https://github.com/ropensci/citecorp",
+  "pkg": "citecorp"
+}
