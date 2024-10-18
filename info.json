@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "0148c5b3358114becd8e35a7582ccb2d534a8ee4",
+    "author": "David Selby <david.selby@dfki.de>",
+    "time": "2024-10-18 12:57:36",
+    "files": 2,
+    "merge": false,
+    "message": "Limit oc_coci to 100 DOIs per query. Fixes #9\n"
+  },
+  "repo": "https://github.com/ropensci/citecorp",
+  "pkg": "citecorp"
+}
