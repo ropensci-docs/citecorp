@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "c654d22917b4f570ca8725ade9ff93d81a914f12",
+    "author": "Jeroen Ooms <jeroenooms@gmail.com>",
+    "time": "2025-02-04T14:23:02Z",
+    "files": 1,
+    "merge": false,
+    "message": "Use rOpenSci ROR link as per CRAN request\n"
+  },
+  "repo": "https://github.com/ropensci/citecorp",
+  "pkg": "citecorp",
+  "time": "2026-08-30T07:33:05Z"
+}
